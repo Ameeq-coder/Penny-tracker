@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PennyTrack</string>
+
+    <string name="heading_one">Saving Money</string>
+    <string name="heading_two">Tracking Money</string>
+    <string name="heading_three">Calculate Your Income</string>
+
+    <string name="desc_one">Save Money And Get on Check ! </string>
+    <string name="desc_two">Track Expenses And Income</string>
+    <string name="desc_three">Use Income On Right Side</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

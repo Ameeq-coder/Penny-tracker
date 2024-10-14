@@ -1,0 +1,30 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Outer circle -->
+    <item android:id="@+id/background_circle">
+        <shape android:shape="oval">
+            <solid android:color="#D3D3D3" />
+        </shape>
+    </item>
+
+    <!-- Inner circle -->
+    <item
+        android:id="@+id/inner_circle"
+        android:left="30dp"
+        android:right="30dp"
+        android:top="30dp"
+        android:bottom="30dp">
+        <shape android:shape="oval">
+            <solid android:color="#FFFFFF" />
+        </shape>
+    </item>
+
+    <!-- Progress circle -->
+    <item android:id="@+id/progress_circle">
+        <shape android:shape="oval">
+            <!-- This will be updated programmatically -->
+            <solid android:color="@android:color/transparent"/>
+        </shape>
+    </item>
+
+</layer-list>

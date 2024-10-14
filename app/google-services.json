@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "567794073323",
+    "project_id": "penny-tracker-be9f0",
+    "storage_bucket": "penny-tracker-be9f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567794073323:android:0e02b93061b8b645d088ae",
+        "android_client_info": {
+          "package_name": "com.example.pennytrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkVLEhRCsk4sdVCrQyJk4ObVXLb9yEP_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
