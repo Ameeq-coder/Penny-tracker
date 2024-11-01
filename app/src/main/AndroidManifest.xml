@@ -15,9 +15,7 @@
         <activity
             android:name=".Activites.settingsActivity"
             android:exported="false" />
-        <activity
-            android:name=".Fragments.AddIncomeFragment"
-            android:exported="false" />
+
         <activity
             android:name=".Activites.TabLayout"
             android:exported="true"></activity>
